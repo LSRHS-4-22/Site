@@ -1,0 +1,15 @@
+body {
+  color:purple;
+  background-color:lightpink;
+  font-family: 'Droid Serif', serif;
+}
+h1{
+    color:purple;
+    font-family: 'Indie Flower', cursive;
+    font-size:30pt;
+  }
+  a:hover{
+      color:pink;
+      backround-color:transparent;
+      text-decoration:none;
+    }

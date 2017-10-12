@@ -1,0 +1,25 @@
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    width:50%;
+}
+
+body {
+  color:Darkblue;
+  background-color:lightblue;
+  font-family: 'Droid Serif', serif;
+}
+
+h1{
+    color:Darkblue;
+    font-family: 'Indie Flower', cursive;
+    font-size:30pt;
+  }
